@@ -1,1 +1,1 @@
-# serverless_webapp
+# serverless-website-hosting
